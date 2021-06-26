@@ -8,6 +8,7 @@ Looking at the data from 2017 and 2018 it looks as though 2017 was a better year
 
 
 Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
+
 ![VBA_Challenge_2017.png](Resources/VBA_Challenge_2017.png)
 ![VBA_Challenge_2018.png](Resources/VBA_Challenge_2018.PNG)
 
