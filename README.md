@@ -1,13 +1,14 @@
-# stock-analysis
+# Stock-Analysis
 
 ## Overview of Project: 
 With a click of a button, Steve can now analyze an entire dataset for the stock market over the last few years. We've worked on refactoring VBA code in order for a shorter execute time.  
 
 ## Results: 
-After refactoring the VBA script, the macro runs quicker. Looking at the stock data from 2017 and 2018 it looks as though 2017 was a better year for return for majority of the stocks. 
+After refactoring the VBA script, the macro runs quicker. Looking at the stock data from 2017 and 2018 it looks as though 2017 was a better year for return for majority of the stocks. In 2018, only 1 of the stocks made a return value.  You also see that the code is running about .4 seconds faster after refactoring.
 
-![Orig_2017](Resources/Orig 2017.PNG)
-![Orig_2018](Resources/Orig 2018.PNG)
+![Orig_2017](Resources/Orig_2017.PNG)
+![Orig_2018](Resources/Orig_2018.PNG)
+
 ![VBA_Challenge_2017.png](Resources/VBA_Challenge_2017.png)
 ![VBA_Challenge_2018.png](Resources/VBA_Challenge_2018.PNG)
   
@@ -89,8 +90,6 @@ After refactoring the VBA script, the macro runs quicker. Looking at the stock d
  
     endTime = Timer
     MsgBox "This code ran in " & (endTime - startTime) & " seconds for the year " & (yearValue)
-
-End Sub
 
 ## In a summary:
 The advantages of refactoring code helps improve the code to make it more readable and easy to understand, as well as, reduces the run time of the macros. The disadvantages of refactoring code is it can be very time-consuming and the company budget may not allow for you to refactor. 
