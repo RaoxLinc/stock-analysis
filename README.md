@@ -4,10 +4,10 @@
 With a click of a button, Steve can now analyze an entire dataset for the stock market over the last few years. We've worked on refactoring VBA code in order for a shorter execute time.  
 
 ## Results: 
-
-
 After refactoring the VBA script, the macro runs quicker. Looking at the stock data from 2017 and 2018 it looks as though 2017 was a better year for return for majority of the stocks. 
 
+![Orig_2017](Resources/Orig 2017.PNG)
+![Orig_2018](Resources/Orig 2018.PNG)
 ![VBA_Challenge_2017.png](Resources/VBA_Challenge_2017.png)
 ![VBA_Challenge_2018.png](Resources/VBA_Challenge_2018.PNG)
   
